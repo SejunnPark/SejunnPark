@@ -1,15 +1,11 @@
-
-# Sejun Park
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Jun Park </h1>
 
-<p align="center" width="150px"> I am a Computer Science Student at Queen's University </p>
+<p align="center" width="150px"> Hi, I am Jun Park, a current 3rd year student at Queen's University studying Computing.  
+</p>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bsejunnpark%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejunnpark&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=sejunnpark&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=sejunnpark&theme=chartreuse-dark"></p>
+## 📚 Tech Articles
+
+You can find all of my posted articles in my blog 📝 [**@sejunsp.park**](https://medium.com/@sejunsp.park). 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -39,8 +35,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sejunnpark/"><img src="https://img.shields.io/badge/-Sejun Park%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sejunsp.park@gmail.com"><img src="https://img.shields.io/badge/-sejunsp.park@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jun.park@queensu.ca"><img src="https://img.shields.io/badge/-jun.park@queensu.ca-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
----
-Credit: [KevinPatel04](https://github.com/KevinPatel04)
+
